@@ -1,0 +1,51 @@
+# FullStack
+
+> FullStack (FullStack Labs, Inc.) is a US AI deployment and software engineering company, founded in 2013, that builds, deploys and runs custom AI and software for US companies with AI-native engineers in Latin America and the US. FullStack Labs builds custom AI, agentic systems and software end to end; FullStack Talent embeds vetted nearshore engineers (1,100+ network, onboarding in as little as 48 hours) in client teams. 600 US companies work with FullStack.
+
+Key facts: AI proof of concept in 6–8 weeks; goal of frontier AI in production in under 12 weeks; founded 2013; legal name FullStack Labs, Inc.
+
+## Services
+
+- [Custom AI development](https://www.fullstack.com/labs/service/custom-ai-solutions): machine learning, agentic AI, computer vision and NLP, from a 6–8 week proof of concept to production.
+- [AI agents and agentic solutions](https://www.fullstack.com/ai-agentic-solutions): custom AI agents deployed into business workflows.
+- [AI and data analytics consulting](https://www.fullstack.com/labs/service/ai-data-analytics): analytics, forecasting and AI models.
+- [Nearshore custom software development](https://www.fullstack.com/labs/service/custom-software-development): AI-native teams for web and mobile software in US time zones.
+- [AI maturity assessment](https://www.fullstack.com/ai-maturity-assessments): 2-week executive evaluation.
+- [GTM AI engineering](https://www.fullstack.com/labs/service/gtm-ai-engineering): AI engineering for sales and marketing teams.
+- [DevOps and cloud engineering](https://www.fullstack.com/labs/service/devops): CI/CD, infrastructure and cloud operations.
+- [Product design (UX/UI)](https://www.fullstack.com/labs/service/product-design): on-demand product design.
+
+## Talent and staff augmentation
+
+- [IT staff augmentation](https://www.fullstack.com/talent/home): vetted nearshore engineers, pods and forward deployed engineers in as little as 48 hours.
+- [Hire AI engineers](https://www.fullstack.com/talent/capabilities/artificial-intelligence): AI-native engineers and pods.
+
+## Case studies (results in production)
+
+- [AI document processing for logistics](https://www.fullstack.com/case-studies/ai-document-processing-for-logistics): processing costs cut by 50% and processing times reduced by 75%, replacing a legacy system that cost over $1M a year.
+- [AI call auditor](https://www.fullstack.com/case-studies/ai-call-auditor-case-study): 99% of call reviews automated for a regulatory compliance firm; an estimated $232,000 and 5,500 labor hours saved a year.
+- [All case studies](https://www.fullstack.com/case-studies): including an agentic benefits assistant supporting 3M+ users, where 72% of employees take different actions after using it.
+
+## Industries
+
+- [Health and wellness](https://www.fullstack.com/labs/industries/health-wellness): Healthcare software and AI for providers and digital health.
+- [Professional and financial services](https://www.fullstack.com/labs/industries/professional-financial-services): Compliance-aware AI, automation and client platforms.
+- [Trade, manufacturing and logistics](https://www.fullstack.com/labs/industries/trade-manufacturing-logistics): Document AI, supply chain and operations software.
+- [Smart manufacturing (Industry 4.0)](https://www.fullstack.com/specialties/smart-manufacturing-industry): Automation, IoT and data platforms for the plant floor.
+- [Technology and digital services](https://www.fullstack.com/labs/industries/technology-digital-services): Product engineering and AI features for software companies.
+- [Government and public services](https://www.fullstack.com/labs/industries/government-public-services): Citizen-facing apps and modernized public systems.
+- [Marketing, media and entertainment](https://www.fullstack.com/labs/industries/marketing-media-entertainment): Content, audience and go-to-market AI.
+- [Hospitality and lifestyle](https://www.fullstack.com/labs/industries/hospitality-lifestyle): Guest experience, booking and loyalty software.
+
+## Guides
+
+- [2026 software development price guide](https://www.fullstack.com/labs/resources/blog/software-development-price-guide-hourly-rate-comparison): hourly rates by provider type and region (Latin America agencies roughly $40–$100 per hour).
+- [2026 nearshore engineering economics report](https://www.fullstack.com/labs/resources/nearshore-engineering-economics-2026)
+- [Agentic AI for production](https://www.fullstack.com/labs/resources/blog/agentic-ai-for-production-what-engineering-teams-need-to-get-right)
+- [How to build an AI proof of concept](https://www.fullstack.com/labs/resources/playbooks/building-an-artificial-intelligence-proof-of-concept)
+
+## Company
+
+- [About FullStack](https://www.fullstack.com/labs/about)
+- [Partners: Anthropic, OpenAI and more](https://www.fullstack.com/partners/our-partners)
+- [Contact and book a call](https://www.fullstack.com/contact)

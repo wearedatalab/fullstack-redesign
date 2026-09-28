@@ -1,0 +1,17 @@
+# fullstack.com — search and AI crawlers are welcome on public pages
+User-agent: *
+Disallow: /talent/login
+Disallow: /thank-you
+Disallow: /talent/thank-you
+
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+Disallow: /talent/login
+
+Sitemap: https://www.fullstack.com/sitemap.xml
